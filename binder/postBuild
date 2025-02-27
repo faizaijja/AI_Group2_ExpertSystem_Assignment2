@@ -1,6 +1,5 @@
 #!/bin/bash
 python health.py
 
-chmod +x start.sh
-./start.sh
+
 
